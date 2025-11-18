@@ -40,5 +40,5 @@ All models run efficiently on CPU. No GPU required.
 
 ---
 
-## 📂 Project Structure
+
 
